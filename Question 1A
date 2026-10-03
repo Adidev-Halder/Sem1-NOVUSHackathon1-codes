@@ -1,0 +1,12 @@
+public class Hackathon1Problem1{
+    public static void main (String args[]){
+        int members=12;
+        double water=32.6;
+        int house=21;
+        char waterStatus='Y';
+        System.out.println("Number of family members: "+members);
+        System.out.println("Water consumed in litres: "+water);
+        System.out.println("House number: "+house);
+        System.out.println("Water usage status('Y' for yes and 'N' for no): "+waterStatus);
+    }
+}
